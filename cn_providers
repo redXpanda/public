@@ -1,0 +1,8 @@
+payload:
+  # 直连列表
+
+  # MyList
+  - DOMAIN-SUFFIX,doubao.com
+  - DOMAIN-SUFFIX,cn
+  - DOMAIN-KEYWORD,doubao
+  - DOMAIN-KEYWORD,deepseek
