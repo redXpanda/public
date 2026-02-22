@@ -8,3 +8,4 @@ payload:
   - DOMAIN-KEYWORD,deepseek
   - DOMAIN-KEYWORD,hxhl
   - DOMAIN-KEYWORD,packyapi
+  - DOMAIN-SUFFIX,packyapi.com
